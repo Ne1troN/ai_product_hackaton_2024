@@ -6,7 +6,7 @@ export default function Navbar({activeTab}) {
   return (
     <>
       <nav class="bg-white border-gray-200 dark:border-white dark:bg-gray-700">
-        <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+        <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 border-b border-gray-200 dark:border-gray-500">
           <Link to="/">
             <a class="flex items-center space-x-3 rtl:space-x-reverse">
               { /* Maybe insert logo of NLMK */}
