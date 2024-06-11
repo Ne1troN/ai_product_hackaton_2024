@@ -1,17 +1,16 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import FreshNewsScreen from './screens/FreshNewsScreen'
-import ArchiveNewsScreen from './screens/ArchiveNewsScreen'
+import ArchiveNewsScreen from "./screens/ArchiveNewsScreen";
+import RecentNewsScreen from "./screens/RecentNewsScreen";
 
-function App() {
+
+export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/*" element={ <FreshNewsScreen /> } />
+        <Route path="/*" element={ <RecentNewsScreen /> } />
         <Route path="/archive" element={ <ArchiveNewsScreen /> } />
       </Routes>
     </BrowserRouter>    
   );
 }
-
-export default App;

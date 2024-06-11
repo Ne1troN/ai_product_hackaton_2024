@@ -12,7 +12,7 @@ export default function LoadingSpinner() {
           </svg>
           <span class="sr-only">Loading...</span>
         </div>
-        <p class="text-xl font-medium dark:text-white mt-3"><i>Загружаем новости...</i></p>
+        <p class="text-xl font-medium dark:text-white mt-3"><i>Загружаем новости. Не перегружайте и не закрывайте страницу!</i></p>
       </div>
     </>
   )
