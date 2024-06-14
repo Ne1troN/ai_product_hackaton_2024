@@ -39,6 +39,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+## To launch backend, see [Backend Github repository](https://github.com/plat1nus/it_news_summarizer_backend)
+
 ## Frontend Examples
 
 **Here are displayed some examples of what you will see when interacting with the website**
