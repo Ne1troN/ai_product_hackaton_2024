@@ -1,4 +1,4 @@
-# Getting started with it_news_summarizer frontend
+# Getting started with "AI News Aggregator" frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
