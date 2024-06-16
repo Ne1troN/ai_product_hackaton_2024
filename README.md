@@ -1,3 +1,16 @@
+# 7 place at Yandex.Cloud hackaton, NLMK case
+
+## Presentation
+https://docs.google.com/presentation/d/1Gb43-i8vslZSuWzekirgR108q4HUgQ56sV-tOWmaUPI/edit?usp=sharing
+
+## That's how our service works:
+
+![scheme](https://github.com/reproductionprohibited/it_news_summarizer_2.0/assets/93340675/a8fe24a7-37ca-4850-90d2-34917d1066f9)
+
+## Ranking model formula for news sorting
+![formula](https://github.com/reproductionprohibited/it_news_summarizer_2.0/assets/93340675/637dbf94-c61d-4f9e-97e3-a6406fd85685)
+
+
 # Getting started with "AI News Aggregator" frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
